@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "name": "georisques",
+  "version": "1.0.0",
+  "description": "Client API pour Géorisques",
+  "main": "src/index.ts",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpabois/georisques.git"
+  },
+  "keywords": [
+    "georisques",
+    "api",
+    "typescript"
+  ],
+  "author": "Gaël PABOIS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gpabois/georisques/issues"
+  },
+  "homepage": "https://github.com/gpabois/georisques#readme"
+}
